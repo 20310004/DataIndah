@@ -5,6 +5,22 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:background="#809933"
+        android:elevation="4dp"
+        android:orientation="vertical"
+        android:padding="20dp">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="30dp"
+            android:background="#fff">
 
     <TextView
         android:layout_width="match_parent"
@@ -21,6 +37,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/rv_listMyfriends"
         android:layout_margin="16dp"/>
+
+        </LinearLayout>
+    </RelativeLayout>
 
 
 </LinearLayout>

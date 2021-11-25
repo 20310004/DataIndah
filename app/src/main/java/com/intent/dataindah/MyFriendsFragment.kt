@@ -25,19 +25,35 @@ class MyFriendsFragment : Fragment(){
         )
         listTeman.add(
             MyFriend("Wanda Amelia", "Perempuan",
-                "wandaamelia@gmail.com",  "082232929802",  "Lawang")
+                "wandaamelia@gmail.com",  "08223292456",  "Lawang")
         )
         listTeman.add(
             MyFriend("Andre Devanto Pradana", "Laki-laki",
-                "andredev@gmail.com", "082765679009","Bonagung")
+                "andredev@gmail.com", "0827655687","Bonagung")
         )
         listTeman.add(
-            MyFriend("Ali bin Abi Tholib", "Laki-laki",
-                "alibinabi@gmail.com",  "082232929802",  "arab")
+            MyFriend("Abu Bakar ", "Laki-laki",
+                "bakarabu@gmail.com",  "08223292345",  "arab")
         )
         listTeman.add(
-            MyFriend("Zulkarnain", "Laki-laki", "zulkarnain@gmail.com",
-                "082765679009","Palestina")
+            MyFriend("Zullaika", "Perempuan", "zulaika@gmail.com",
+                "08276567676","Palestina")
+        )
+        listTeman.add(
+            MyFriend("Amelian ya", "Perempuan",
+                "amelia@gmail.com",  "08223292456",  "Lawang")
+        )
+        listTeman.add(
+            MyFriend("Devanto Pradana", "Laki-laki",
+                "devano@gmail.com", "0827655687","Bonagung")
+        )
+        listTeman.add(
+            MyFriend("Abi Farhan", "Laki-laki",
+                "alifarhan@gmail.com",  "08223292322",  "arab")
+        )
+        listTeman.add(
+            MyFriend("Yusup", "Laki-laki", "yusup@gmail.com",
+                "08276567988","Palestina")
         )
 
     }
