@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.annotation.Nullable
 import androidx.fragment.app.Fragment
 
-class GitHubFragmen : Fragment() {
+class GitHubFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?){
         super.onCreate(savedInstanceState)
     }
